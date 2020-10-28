@@ -1,4 +1,6 @@
 #Easy #10
+#https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem
+
 defmodule Solution do
   #Enter your code here. Read input from STDIN. Print output to STDOUT
 
