@@ -1,0 +1,56 @@
+#О лямбда исчислении можно почитать тут:
+#https://habr.com/ru/post/215807/
+
+#13
+#Easy #5
+#https://www.hackerrank.com/challenges/lambda-calculus-reductions-1/problem
+
+y
+
+#14
+#Easy #5
+#https://www.hackerrank.com/challenges/lambda-calculus-reductions-2/problem
+
+w
+
+#15
+#Medium #5
+#https://www.hackerrank.com/challenges/lambda-calculus-reductions-3/problem
+
+CAN'T REDUCE
+
+#16
+#Medium #5
+#https://www.hackerrank.com/challenges/lambda-calculus-reductions-4/problem
+
+CAN'T REDUCE
+
+#17
+#Easy #5
+#https://www.hackerrank.com/challenges/lambda-calculus-getting-started/problem
+
+4
+
+#18
+#Easy #5
+#https://www.hackerrank.com/challenges/lambda-calculus-understanding-the-syntax/problem
+
+6
+
+#19
+#Easy #5
+#https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression/problem
+
+47
+
+#20
+#Medium #5
+#https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression-1/problem
+
+2
+
+#21
+#Medium #5
+#https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression-2/problem
+
+0
